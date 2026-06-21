@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **This project is archived and has been superseded by [MailMerge-SVG](https://github.com/joncamp/MailMerge-SVG).**
+>
+> MailMerge-SVG is a stdlib-only / zero-dependency mail-merge tool (Python CLI + a no-install
+> [web app](https://joncamp.github.io/MailMerge-SVG/)) that reproduces this tool's behavior via its
+> **individual mode** (one full-page SVG per CSV row) and adds a **grid mode** for laser-cut sheets.
+> Please use it instead. This repository remains read-only for reference.
 # Certificate Generator
 
 This Python application generates certificates from an SVG template. It now creates one SVG file per CSV row with simple placeholder replacement.
